@@ -1,11 +1,15 @@
-import logo from './logo.svg';
-import './App.css';
+import Meals from './components/Meals/Meals';
+import { Fragment } from 'react';
+import Header from './components/Layout/Header';
 
 function App() {
   return (
-    <div className="App">
-      test
-    </div>
+    <Fragment>
+      <Header/>
+      <main>
+        <Meals/>
+      </main>
+    </Fragment>
   );
 }
 
