@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+# Meals
+Meals is a food order application where users can select their favourite food and order them.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This application was built using React and firebase database to store and fetch data.
 
-## Available Scripts
+Home Page:
+![Alt text](./public/Screenshot%20(323).png)
 
-In the project directory, you can run:
+Cart:
+![Alt text](./public/Screenshot%20(324).png)
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Alt text](./public/Screenshot%20(325).png)
